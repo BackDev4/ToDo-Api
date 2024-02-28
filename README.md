@@ -19,9 +19,9 @@ php artisan db:seed
 php artisan serve
 
 Api routes:
-Get    /api/todo get all
-Get    /api/todo?status||?date filtred by field
-Post   /api/todo create new 
-Get    /api/todo/{id}  show one 
-Post   /api/todo/{id}  update one
+Get    /api/todo get all <br>
+Get    /api/todo?status||?date filtred by field <br>
+Post   /api/todo create new <br>
+Get    /api/todo/{id}  show one <br>
+Post   /api/todo/{id}  update one <br>
 Delete   /api/todo/{id}  Delete one
